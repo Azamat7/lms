@@ -328,29 +328,29 @@ export function getSidebarLinks() {
 			to: 'Courses',
 			activeFor: ['Courses', 'CourseDetail', 'Lesson'],
 		},
-		{
-			label: 'Batches',
-			icon: Users,
-			to: 'Batches',
-			activeFor: ['Batches', 'BatchDetail', 'Batch'],
-		},
-		{
-			label: 'Certified Participants',
-			icon: GraduationCap,
-			to: 'CertifiedParticipants',
-			activeFor: ['CertifiedParticipants'],
-		},
-		{
-			label: 'Jobs',
-			icon: Briefcase,
-			to: 'Jobs',
-			activeFor: ['Jobs', 'JobDetail'],
-		},
-		{
-			label: 'Statistics',
-			icon: TrendingUp,
-			to: 'Statistics',
-		},
+		// {
+		// 	label: 'Batches',
+		// 	icon: Users,
+		// 	to: 'Batches',
+		// 	activeFor: ['Batches', 'BatchDetail', 'Batch'],
+		// },
+		// {
+		// 	label: 'Certified Participants',
+		// 	icon: GraduationCap,
+		// 	to: 'CertifiedParticipants',
+		// 	activeFor: ['CertifiedParticipants'],
+		// },
+		// {
+		// 	label: 'Jobs',
+		// 	icon: Briefcase,
+		// 	to: 'Jobs',
+		// 	activeFor: ['Jobs', 'JobDetail'],
+		// },
+		// {
+		// 	label: 'Statistics',
+		// 	icon: TrendingUp,
+		// 	to: 'Statistics',
+		// },
 	]
 }
 
